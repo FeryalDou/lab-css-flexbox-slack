@@ -304,15 +304,3 @@ footer > ul > li {
     margin-right: 3rem;
   }
 }
-
-@media (min-width: 769px) and (max-width: 1024px) {
-  /* Styles pour les écrans entre 769px et 1024px de largeur */
-}
-
-@media (min-width: 1025px) and (max-width: 1440px) {
-  /* Styles pour les écrans entre 1025px et 1440px de largeur */
-}
-
-@media (min-width: 1441px) {
-  /* Styles pour les écrans plus larges que 1440px */
-}
